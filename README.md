@@ -1,0 +1,1 @@
+This webpage contains information on clouds plus a photo of clouds. I created an HTML document with the following code. In the first step, I float the photo to the left of the text, so that the text wraps around it.
